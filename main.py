@@ -1,0 +1,1 @@
+print("Sistema de Gestão de Produtos")
